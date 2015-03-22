@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Un blog de Cuba]]></title>
-  <link href="https://matanzas.github.io/atom.xml" rel="self"/>
-  <link href="https://matanzas.github.io/"/>
-  <updated>2015-03-22T07:35:50-04:00</updated>
-  <id>https://matanzas.github.io/</id>
+  <link href="https://cubacc.com/atom.xml" rel="self"/>
+  <link href="https://cubacc.com/"/>
+  <updated>2015-03-22T07:50:41-04:00</updated>
+  <id>https://cubacc.com/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Just a Post]]></title>
-    <link href="https://matanzas.github.io/blog/2015/03/10/just-a-post/"/>
+    <link href="https://cubacc.com/blog/2015/03/10/just-a-post/"/>
     <updated>2015-03-10T22:01:27-04:00</updated>
-    <id>https://matanzas.github.io/blog/2015/03/10/just-a-post</id>
+    <id>https://cubacc.com/blog/2015/03/10/just-a-post</id>
     <content type="html"><![CDATA[<p>Las pruebas se habían perdido y no quedaba nada. Solo lindaba el desvarío de unas ideas planas. Solas, ilustres y paliduchas trotando en el aire.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Las Lenguas Perdidas De América]]></title>
-    <link href="https://matanzas.github.io/blog/2015/02/28/las-lenguas-perdidas-de-america/"/>
+    <link href="https://cubacc.com/blog/2015/02/28/las-lenguas-perdidas-de-america/"/>
     <updated>2015-02-28T17:39:27-05:00</updated>
-    <id>https://matanzas.github.io/blog/2015/02/28/las-lenguas-perdidas-de-america</id>
+    <id>https://cubacc.com/blog/2015/02/28/las-lenguas-perdidas-de-america</id>
     <content type="html"><![CDATA[<p>Y solo queda el tiempo, tierno y agrio, cruel y frágil carapacho, como aludido testigo de las vicisitudes de este lenguaje que el idioma español ignoró en el adaptativo cuajado de sus elementos idiomáticos.</p>
 
 <p><strong>autor: <em>Monteverde</em></strong></p>
@@ -1397,9 +1397,9 @@ de Paraguay, Tucumán, Ecuador, y Río de la Plata***
   
   <entry>
     <title type="html"><![CDATA[José Martí Y El Ajedrez: El único Juego Que Se Conserva Del Apóstol De Cuba.]]></title>
-    <link href="https://matanzas.github.io/blog/2015/01/30/jose-marti-y-el-ajedrez-el-unico-juego-que-se-conserva-del-apostol-de-cuba/"/>
+    <link href="https://cubacc.com/blog/2015/01/30/jose-marti-y-el-ajedrez-el-unico-juego-que-se-conserva-del-apostol-de-cuba/"/>
     <updated>2015-01-30T01:47:14-05:00</updated>
-    <id>https://matanzas.github.io/blog/2015/01/30/jose-marti-y-el-ajedrez-el-unico-juego-que-se-conserva-del-apostol-de-cuba</id>
+    <id>https://cubacc.com/blog/2015/01/30/jose-marti-y-el-ajedrez-el-unico-juego-que-se-conserva-del-apostol-de-cuba</id>
     <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIa2xxQjhCZHVhY3M/preview" width="580" height="480"></iframe>
 
 
@@ -1409,9 +1409,9 @@ de Paraguay, Tucumán, Ecuador, y Río de la Plata***
   
   <entry>
     <title type="html"><![CDATA[Andrés Clemente Vázquez, Ajedrecista De Cuba. Cónsul De México.]]></title>
-    <link href="https://matanzas.github.io/blog/2015/01/20/andres-clemente-vazquez-ajedrecista-de-cuba-consul-de-mexico/"/>
+    <link href="https://cubacc.com/blog/2015/01/20/andres-clemente-vazquez-ajedrecista-de-cuba-consul-de-mexico/"/>
     <updated>2015-01-20T03:44:45-05:00</updated>
-    <id>https://matanzas.github.io/blog/2015/01/20/andres-clemente-vazquez-ajedrecista-de-cuba-consul-de-mexico</id>
+    <id>https://cubacc.com/blog/2015/01/20/andres-clemente-vazquez-ajedrecista-de-cuba-consul-de-mexico</id>
     <content type="html"><![CDATA[<p>  Andrés Clemente Vázquez. Ajedrecista de Cuba</p>
 
 <ul>
@@ -1497,9 +1497,9 @@ Negras: Carrington.</p>
   
   <entry>
     <title type="html"><![CDATA[Una Introspectiva Sobre Hampa Afro-Cubana: Los Negros Brujos, La Craneología Y La Craneometría]]></title>
-    <link href="https://matanzas.github.io/blog/2015/01/03/una-introspectiva-sobre-hampa-afrocubana-la-craneologia-y-la-craneometria/"/>
+    <link href="https://cubacc.com/blog/2015/01/03/una-introspectiva-sobre-hampa-afrocubana-la-craneologia-y-la-craneometria/"/>
     <updated>2015-01-03T07:16:25-05:00</updated>
-    <id>https://matanzas.github.io/blog/2015/01/03/una-introspectiva-sobre-hampa-afrocubana-la-craneologia-y-la-craneometria</id>
+    <id>https://cubacc.com/blog/2015/01/03/una-introspectiva-sobre-hampa-afrocubana-la-craneologia-y-la-craneometria</id>
     <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIblJpXzhZVDlxT2M/preview" width="580" height="480"></iframe>
 
 
@@ -1509,9 +1509,9 @@ Negras: Carrington.</p>
   
   <entry>
     <title type="html"><![CDATA[Una Retrospectiva Sobre Hampa Afro-Cubana: Los Negros Brujos]]></title>
-    <link href="https://matanzas.github.io/blog/2013/06/26/una-retrospectiva-sobre-hampa-afrocubana-los-negros-brujos/"/>
+    <link href="https://cubacc.com/blog/2013/06/26/una-retrospectiva-sobre-hampa-afrocubana-los-negros-brujos/"/>
     <updated>2013-06-26T11:42:27-04:00</updated>
-    <id>https://matanzas.github.io/blog/2013/06/26/una-retrospectiva-sobre-hampa-afrocubana-los-negros-brujos</id>
+    <id>https://cubacc.com/blog/2013/06/26/una-retrospectiva-sobre-hampa-afrocubana-los-negros-brujos</id>
     <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5WMOunWOpJIdlo3T1BjQ0E0NW8/preview" width="580" height="480"></iframe>
 
 
@@ -1521,9 +1521,9 @@ Negras: Carrington.</p>
   
   <entry>
     <title type="html"><![CDATA[Matanzas, the Athens of Cuba, Its Historians, and the Current State of the Genre..]]></title>
-    <link href="https://matanzas.github.io/blog/2012/05/14/189/"/>
+    <link href="https://cubacc.com/blog/2012/05/14/189/"/>
     <updated>2012-05-14T22:32:29-04:00</updated>
-    <id>https://matanzas.github.io/blog/2012/05/14/189</id>
+    <id>https://cubacc.com/blog/2012/05/14/189</id>
     <content type="html"><![CDATA[<p><a href="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde.png"><img src="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde.png" alt="" /></a></p>
 
 <p><a href="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde11.png"><img src="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde11.png" alt="" /></a></p>
@@ -1534,9 +1534,9 @@ Negras: Carrington.</p>
   
   <entry>
     <title type="html"><![CDATA[Carlos Manuel Trelles, Matancero, El Más Notable Bibliógrafo De Hispano-América.]]></title>
-    <link href="https://matanzas.github.io/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america/"/>
+    <link href="https://cubacc.com/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america/"/>
     <updated>2012-02-10T23:08:38-05:00</updated>
-    <id>https://matanzas.github.io/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america</id>
+    <id>https://cubacc.com/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america</id>
     <content type="html"><![CDATA[<p>Carlos Trelles y Govín      <a href="http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg"><img src="http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg?w=220" alt="" /></a></p>
 
 <ul>
@@ -1640,9 +1640,9 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
   
   <entry>
     <title type="html"><![CDATA[La Anomalía Del Lenguaje.]]></title>
-    <link href="https://matanzas.github.io/blog/2011/10/04/la-anomalia-del-lenguaje/"/>
+    <link href="https://cubacc.com/blog/2011/10/04/la-anomalia-del-lenguaje/"/>
     <updated>2011-10-04T17:50:47-04:00</updated>
-    <id>https://matanzas.github.io/blog/2011/10/04/la-anomalia-del-lenguaje</id>
+    <id>https://cubacc.com/blog/2011/10/04/la-anomalia-del-lenguaje</id>
     <content type="html"><![CDATA[<p><a href="http://cubamatanzas.files.wordpress.com/2011/10/picture-1.png"><img src="http://cubamatanzas.files.wordpress.com/2011/10/picture-1.png" alt="" /></a></p>
 
 <p><a href="http://cubamatanzas.files.wordpress.com/2011/10/picture-2.png"><img src="http://cubamatanzas.files.wordpress.com/2011/10/picture-2.png" alt="" /></a></p>
@@ -1653,27 +1653,27 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
   
   <entry>
     <title type="html"><![CDATA[Agustín Acosta]]></title>
-    <link href="https://matanzas.github.io/blog/2011/10/02/116/"/>
+    <link href="https://cubacc.com/blog/2011/10/02/116/"/>
     <updated>2011-10-02T21:08:10-04:00</updated>
-    <id>https://matanzas.github.io/blog/2011/10/02/116</id>
+    <id>https://cubacc.com/blog/2011/10/02/116</id>
     <content type="html"><![CDATA[<p><a href="http://cubamatanzas.files.wordpress.com/2011/10/acosta.png"><img src="http://cubamatanzas.files.wordpress.com/2011/10/acosta.png" alt="" /></a><a href="http://cubamatanzas.files.wordpress.com/2011/10/acosta-ii.png"><img src="http://cubamatanzas.files.wordpress.com/2011/10/acosta-ii.png" alt="" /></a><a href="http://cubamatanzas.files.wordpress.com/2011/10/acosta-iii.png"><img src="http://cubamatanzas.files.wordpress.com/2011/10/acosta-iii.png" alt="" /></a><a href="http://cubamatanzas.files.wordpress.com/2011/10/acosta-iv.png"><img src="http://cubamatanzas.files.wordpress.com/2011/10/acosta-iv.png" alt="" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Bajo La Tarde Azul]]></title>
-    <link href="https://matanzas.github.io/blog/2011/10/02/bajo-la-tarde-azul/"/>
+    <link href="https://cubacc.com/blog/2011/10/02/bajo-la-tarde-azul/"/>
     <updated>2011-10-02T17:51:02-04:00</updated>
-    <id>https://matanzas.github.io/blog/2011/10/02/bajo-la-tarde-azul</id>
+    <id>https://cubacc.com/blog/2011/10/02/bajo-la-tarde-azul</id>
     <content type="html"><![CDATA[<p><a href="http://cubamatanzas.files.wordpress.com/2011/01/maria-villar-buceta.jpg"><img src="http://cubamatanzas.files.wordpress.com/2011/01/maria-villar-buceta.jpg" alt="" /></a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Vida Y Obra De Villar Buceta.]]></title>
-    <link href="https://matanzas.github.io/blog/2011/01/12/vida-y-obra-de-villar-buceta-2/"/>
+    <link href="https://cubacc.com/blog/2011/01/12/vida-y-obra-de-villar-buceta-2/"/>
     <updated>2011-01-12T07:08:26-05:00</updated>
-    <id>https://matanzas.github.io/blog/2011/01/12/vida-y-obra-de-villar-buceta-2</id>
+    <id>https://cubacc.com/blog/2011/01/12/vida-y-obra-de-villar-buceta-2</id>
     <content type="html"><![CDATA[<p>La época modernista también nos regaló figuras que propiciaron congregar a la ciudad de los ríos, como el picturesco y erudito centro artístico del caribe por el que siempre se le conoció, donde los más destacados de las ramas literarias de todo el país, se sentirían obligados a emprender una peregrina travesía para apreciar y compartir lo más cerca posible el suelo natal de sus hijos que la convirtieron y ratificaron en varias ocasiones como la Atenas de escritores y poetas.</p>
 
 <p>Predominantes figuras nos salpican la mente con el modernismo. A través de todo el mundo este fue un metamórfico apogeo de individualismo artístico y literaria sublevación moral contra todas las corrientes que querían imponer un orden y patrón de pensamientos.</p>
@@ -1694,9 +1694,9 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
   
   <entry>
     <title type="html"><![CDATA[Sergio Mederos. Poeta Matancero De Estilo Refinado, Famoso Por Su Puritanismo Lingüístico Y Celo idiomático.]]></title>
-    <link href="https://matanzas.github.io/blog/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/"/>
+    <link href="https://cubacc.com/blog/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico/"/>
     <updated>2010-10-08T10:19:45-04:00</updated>
-    <id>https://matanzas.github.io/blog/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico</id>
+    <id>https://cubacc.com/blog/2010/10/08/sergio-mederos-poeta-matancero-de-estilo-refinado-y-puritanismo-linguistico</id>
     <content type="html"><![CDATA[<p>Remontándonos a una época más reciente, donde se denote el valor artísticomatancero como centro cultural, no puede darse por sentada la exaltación de una específica rama de un arte en particular, como lo es la poesía en la literatura, sin dejar de desapercibirse y relegar a un secundario plano a los versos octasílabos que han contado siempre, pero antes mucho más, con una popularidad impresionante.</p>
 
 <p>Aunque fue un género predominante en las zonas rurales del campo cubano, sus seguidores mostrarían a lo largo del tiempo una incomparable devoción, no antes experimentada con otros versículos de la modernidad.</p>
@@ -1785,9 +1785,9 @@ y el otro la cultivó<br/>
   
   <entry>
     <title type="html"><![CDATA[Al César Lo Que Es Del César.]]></title>
-    <link href="https://matanzas.github.io/blog/2010/10/07/al-cesar-lo-que-es-del-cesar/"/>
+    <link href="https://cubacc.com/blog/2010/10/07/al-cesar-lo-que-es-del-cesar/"/>
     <updated>2010-10-07T19:25:20-04:00</updated>
-    <id>https://matanzas.github.io/blog/2010/10/07/al-cesar-lo-que-es-del-cesar</id>
+    <id>https://cubacc.com/blog/2010/10/07/al-cesar-lo-que-es-del-cesar</id>
     <content type="html"><![CDATA[<p>Al César lo que es del César.</p>
 
 <p>Sería inadmisible hablar de las riquezas naturales de una isla sin mencionar los logros literarios de una ciudad que con el tiempo se habría convertido no tan solo en la panoramica envidia de una recién institucionalizada comarca, sino en el paradero cultural más codiciado de los artistas de ese entonces. <img src="http://cubamatanzas.files.wordpress.com/2012/05/catedral_matanzas.jpeg?w=300&amp;h=185" alt="Catedral_matanzas" /></p>
@@ -1838,9 +1838,9 @@ y el otro la cultivó<br/>
   
   <entry>
     <title type="html"><![CDATA[Matanzas, Atenas De Cuba. Primer Esbozo De Dos Atenas.]]></title>
-    <link href="https://matanzas.github.io/blog/2010/10/07/matanzas-atenas-de-cuba-primer-esbozo-de-dos-atenas/"/>
+    <link href="https://cubacc.com/blog/2010/10/07/matanzas-atenas-de-cuba-primer-esbozo-de-dos-atenas/"/>
     <updated>2010-10-07T14:58:18-04:00</updated>
-    <id>https://matanzas.github.io/blog/2010/10/07/matanzas-atenas-de-cuba-primer-esbozo-de-dos-atenas</id>
+    <id>https://cubacc.com/blog/2010/10/07/matanzas-atenas-de-cuba-primer-esbozo-de-dos-atenas</id>
     <content type="html"><![CDATA[<h2>Recuento de dos Atenas</h2>
 
 <p>Un acontecimiento, por muy distante que parezca, o inmóvil ante la historia, como si el tiempo girara semicircularmente en la órbita del olvido, haciéndole eco a quienes sostienen que todo es repetitivo y engañando a otros quienes juran por su siempre cambiante transición, se mantiene arbitrariamente allí, esperando ser detallado por el  desglozamiento factual de sus pasados eventos.</p>
