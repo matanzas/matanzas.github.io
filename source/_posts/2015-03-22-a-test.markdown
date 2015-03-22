@@ -1,5 +1,0 @@
----
-layout: post
-title: "A test"
-date: 2015-03-22T00:16:19-04:00
----
