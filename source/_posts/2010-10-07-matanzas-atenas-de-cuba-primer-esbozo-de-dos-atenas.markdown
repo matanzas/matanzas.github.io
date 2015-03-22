@@ -1,0 +1,112 @@
+---
+author: monteverde
+comments: true
+date: 2010-10-07 18:58:18+00:00
+layout: post
+slug: matanzas-atenas-de-cuba-primer-esbozo-de-dos-atenas
+title: Matanzas, Atenas de Cuba. Primer esbozo de dos Atenas.
+wordpress_id: 8
+tags:
+- aristófanes
+- Aristophanes
+- arte
+- arts
+- Atenas
+- Athens
+- Cuba
+- cultura
+- culture
+- Greece
+- historia
+- history
+- Liceo
+- literatura
+- literature
+- Lyceum
+- Matanzas
+- Milanes
+- music
+- musica
+- Placido
+- poems
+- poesia
+- poet
+- poetas
+- tainos
+- writings
+---
+
+
+
+
+
+## Recuento de dos Atenas
+
+
+
+
+Un acontecimiento, por muy distante que parezca, o inmóvil ante la historia, como si el tiempo girara semicircularmente en la órbita del olvido, haciéndole eco a quienes sostienen que todo es repetitivo y engañando a otros quienes juran por su siempre cambiante transición, se mantiene arbitrariamente allí, esperando ser detallado por el  desglozamiento factual de sus pasados eventos.
+
+
+
+
+![carnival near the temple of jupiter, athens](http://cubamatanzas.files.wordpress.com/2012/05/carnival-near-the-temple-of-jupiter-athens1.jpeg?w=388&h=268)
+
+
+Si el período, por así llamarlo de estrellato, que Matanzas saborearía por un diminutivo tiempo, el transurso de la Atenas de Eurípides y de Aristófanes, de similar manera, tampoco gozó de prometedora estancia.
+
+
+
+
+Revisando con carácter pasajero, el gradual embellezamiento de la ciudad griega que virtuosamente contó con importantes figuras, las cuales la convertirían en la ciudad más importante de sus tiempos, no se le haría la merecida justicia a nuestra Matanzas, si no reconocemos que todas las acrópolis, como la otra Atenas, han atravesado por el habitual declinamiento que acompaña sus consequenciales y desfallecidos bríos.<img align="right" src="http://cubamatanzas.files.wordpress.com/2010/10/sauto.jpg?w=300">
+ De igual manera, no sería neutralmente justo desacreditar una tierra que haciendo gala de forma natural de una hermosa bahía que se uníría como eslabón romántico a unos ríos que le conferían a su vez, una imagen veneciana a su ya crepúsculo espejo, donde sus hijos al sentirse reflejados en el mismo, le brindarían humildemente el recíproco favor de cantarle, escribirle, y resonar su nombre con amor y el merecido apego.
+
+
+
+
+<img align="right" src="http://cubamatanzas.files.wordpress.com/2012/05/puente-de-la-concordia.jpeg?w=300&h=182">
+
+
+
+
+La analogía no se traza para justificar la brevedad del histórico período, sino más bien para entender el frágil pero no obstante remarcable proceso, que muchas sociedades, llaménsele griegas o cubanas, experimentan. Porque siempre están caracterizadas por un transcurso donde diferentes fechas desestabilizadoras afectan en innumerables ocasiones el progreso que pareciése alguna vez permanente. De esta manera, el éxito se convertiría, subitamente, de promisorio a transitivo, y su inminente deterioro es palpable ante el desmoronamiento artístico de su cementado cultural suceso.
+
+
+
+
+Entonces…¿ Qué más pedimos, o exigimos? Si el lugar donde sus claves figuras que la encaminarían al mundial renombre, aunque separados por otras épocas, fueron tan prominentes en las artes como lo fuésen los fundadores atenienses. Porque si bien es impresionante e indudablemente admirable la cultura que precedió a la era bizentina, también por cada nombre griego existiría uno matancero: Plácido, Milanés, Manzano, entre tantos otros que constituían el calibre literario de nuestra región yumurina.![aristoph](http://cubamatanzas.files.wordpress.com/2012/05/aristoph.png =120x120)![milanes](http://cubamatanzas.files.wordpress.com/2012/05/milanes.jpg =130x130)[![](http://cubamatanzas.files.wordpress.com/2010/10/placido.jpeg =130x140)](http://cubamatanzas.files.wordpress.com/2010/10/placido.jpeg =140x150)
+
+
+
+
+Se sabe, como muchos historiadores han logrado apuntar, que la influencia sacarócrata en la urbe estaba presente en cada decisión municipal que se tomaría, pero sería una falta metodológica no tener en cuenta el paralelo vínculo de las clases más altas en la otrora original sede helenística. Por ejemplo, las estructuras arquitectónicas en Grecia que patrozinarían las épicas obras de la tragedia clásica fueron auspiciadas remunerativamente por los más acaudalados, algo que no fue disímil con lo acontecido en nuestra ciudad cuando se entrelaza el aporte económico de sus respectivos contribuyentes.
+
+
+
+
+Desde otro punto, se puede afirmar que si trazamos una comparación entre la antigua acrópolis, ciudad que irrumpió en el creativo campo de las artes para marcar el hiato de una sociedad autónoma con nuestra intelectualidad criolla que centurias después, le proporcionaría a Matanzas la singular posición de ícono cultural entre todas las recién descubiertas hispano americanas tierras, se puede concluir que la historia se repitiría de manera singular y sobresaliente.
+
+
+
+
+Ni una sola región descubierta por España, contaba con la calidad artística de sus precursores. La competencia más aledaña se encontraba al occidente de esta que después de un tiempo, y merecidamente, se convirtió en la más importante: la capital de la Isla. Sus representantes se establecerían después cuando el avance artístico matancero languidecía, como se ha sabido, a causas de apatías propulsadas por el desencanto popular social que trajo consigo diferencias que culminarían en guerras de reconquista.
+
+
+
+
+[](http://cubamatanzas.files.wordpress.com/2012/05/guerra10_.jpg?w=300&h=170)
+
+
+
+
+La consiguiente caída de la época dorada tiene para Matanzas un cierto semblante con el clásico período en Grecia, porque si bien los problemas empezarían para el último en el Peloponeso, de igual manera la sociedad yumurina se vería afectada por la guerra de Los Diez Años, la cual extendiéndose a través del tiempo se resumiría con la independentista. Algo que nuevamente, si se aprecia de superficial manera no denota nada parecido con la anterior acrópolis, a menos que se revise la historia y se aprecie claramente que la caída de los grandes momentos para Grecia lo marcó el resurgimiento de la susodicha guerra alrededor de 413 B.C.E. [](http://cubamatanzas.files.wordpress.com/2012/05/peloppones_.jpg?w=300&h=151)Y es este dato el más importante con el que se cuenta, para reconsiderar, como se planteó desde un principio, si un evento posée o no los reencuentros históricos que a medida que repercuten con el pasar de los siglos, muestran el estrecho contraste entre las dos civilizaciones, sin importar la lengua o las costumbres de su gente, así sean como en este caso, en las vidas de los antiguos griegos y nuestros más lejanos predecesores, los cuales hicieron de Matanzas, aunque brevemente, la Atenas de Cuba para siempre.
+
+
+
+
+
+
+
+
+
+
