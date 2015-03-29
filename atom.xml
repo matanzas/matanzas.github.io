@@ -4,7 +4,7 @@
   <title><![CDATA[Un blog de Cuba]]></title>
   <link href="https://cubacc.com/atom.xml" rel="self"/>
   <link href="https://cubacc.com/"/>
-  <updated>2015-03-29T03:00:54-04:00</updated>
+  <updated>2015-03-29T03:16:12-04:00</updated>
   <id>https://cubacc.com/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -1524,11 +1524,11 @@ Negras: Carrington.</p>
     <link href="https://cubacc.com/blog/2012/05/14/189/"/>
     <updated>2012-05-14T22:32:29-04:00</updated>
     <id>https://cubacc.com/blog/2012/05/14/189</id>
-    <content type="html"><![CDATA[<p><a href="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde.png"><img src="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde.png" alt="" /></a></p>
+    <content type="html"><![CDATA[<p><img class="center" src="https://cubacc.com/images/athens-historians-1.png" width="582" height="651" title="Matanzas and its historians" ></p>
 
-<p><a href="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde11.png"><img src="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde11.png" alt="" /></a></p>
+<p><img class="center" src="https://cubacc.com/images/athens-historians-2.png" width="582" height="651" title="Matanzas and its historians" ></p>
 
-<p><a href="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde2.png"><img src="http://cubamatanzas.files.wordpress.com/2012/05/mtzmonteverde2.png" alt="" /></a></p>
+<p><img class="center" src="https://cubacc.com/images/athens-historians-3.png" width="582" height="651" title="Matanzas and its historians" ></p>
 ]]></content>
   </entry>
   
