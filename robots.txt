@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: https://cubacc.com/sitemap.xml 
+Sitemap: https://cubacc.com/sitemap.xml
