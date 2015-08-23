@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Cuba | Un blog de Cuba]]></title>
+  <title><![CDATA[Category: cuba | Un blog de Cuba]]></title>
   <link href="https://cubacc.com/blog/categories/cuba/atom.xml" rel="self"/>
   <link href="https://cubacc.com/"/>
-  <updated>2015-03-29T23:38:24-04:00</updated>
+  <updated>2015-08-23T03:15:13-04:00</updated>
   <id>https://cubacc.com/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Vida Y Obra De Villar Buceta.]]></title>
+    <title type="html"><![CDATA[Vida y obra de Villar Buceta.]]></title>
     <link href="https://cubacc.com/blog/2011/01/12/vida-y-obra-de-villar-buceta-2/"/>
     <updated>2011-01-12T07:08:26-05:00</updated>
     <id>https://cubacc.com/blog/2011/01/12/vida-y-obra-de-villar-buceta-2</id>
