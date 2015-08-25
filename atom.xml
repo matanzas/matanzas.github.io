@@ -4,7 +4,7 @@
   <title><![CDATA[Un blog de Cuba]]></title>
   <link href="https://cubacc.com/atom.xml" rel="self"/>
   <link href="https://cubacc.com/"/>
-  <updated>2015-08-25T03:12:26-04:00</updated>
+  <updated>2015-08-25T03:17:23-04:00</updated>
   <id>https://cubacc.com/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -39,12 +39,12 @@ mundos</em>. Hablando de estos marcianos, un siglo antes.</p>
 
 <p>El fragmento con que comienza la obra dice:</p>
 
-<p>&hellip; as men busied themselves about their various concerns they were
+<blockquote><p>&hellip; as men busied themselves about their various concerns they were
 scrutinised and studied, perhaps almost as narrowly as a man with a
 microscope might scrutinise the transient creatures that swarm and
 multiply in a drop of water. With infinite complacency men went to and
 fro over this globe about their little affairs, serene in their
-assurance of their empire over matter.</p>
+assurance of their empire over matter.</p></blockquote>
 
 <p>Que en la traducción al español diría que:</p>
 
