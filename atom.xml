@@ -4,7 +4,7 @@
   <title><![CDATA[Un blog de Cuba]]></title>
   <link href="https://cubacc.com/atom.xml" rel="self"/>
   <link href="https://cubacc.com/"/>
-  <updated>2015-08-25T05:02:44-04:00</updated>
+  <updated>2016-02-18T23:32:15-05:00</updated>
   <id>https://cubacc.com/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La Lengua Indígena en Cuba]]></title>
+    <link href="https://cubacc.com/blog/2016/02/18/la-lengua-indigena-en-cuba/"/>
+    <updated>2016-02-18T23:20:05-05:00</updated>
+    <id>https://cubacc.com/blog/2016/02/18/la-lengua-indigena-en-cuba</id>
+    <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B6U4CdRsdpvqY3dXc2NYRHBSaW8/preview" width="580" height="520"></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Los Marcianos Llegaron Yá]]></title>
