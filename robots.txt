@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cubacc.com/sitemap.xml
+Sitemap: https://matanzas.github.io/sitemap.xml
