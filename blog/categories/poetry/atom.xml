@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: poetry | Un blog de Cuba]]></title>
+  <title><![CDATA[Category: Poetry | Un blog de Cuba]]></title>
   <link href="https://matanzas.github.io/blog/categories/poetry/atom.xml" rel="self"/>
   <link href="https://matanzas.github.io/"/>
-  <updated>2016-08-18T10:02:58-04:00</updated>
+  <updated>2016-08-18T10:59:26-04:00</updated>
   <id>https://matanzas.github.io/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Vida y obra de Villar Buceta.]]></title>
+    <title type="html"><![CDATA[Vida Y Obra De Villar Buceta.]]></title>
     <link href="https://matanzas.github.io/blog/2011/01/12/vida-y-obra-de-villar-buceta-2/"/>
     <updated>2011-01-12T07:08:26-05:00</updated>
     <id>https://matanzas.github.io/blog/2011/01/12/vida-y-obra-de-villar-buceta-2</id>
