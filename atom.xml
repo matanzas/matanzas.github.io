@@ -4,7 +4,7 @@
   <title><![CDATA[Un blog de Cuba]]></title>
   <link href="https://matanzas.github.io/atom.xml" rel="self"/>
   <link href="https://matanzas.github.io/"/>
-  <updated>2016-08-18T08:04:48-04:00</updated>
+  <updated>2016-08-18T08:12:45-04:00</updated>
   <id>https://matanzas.github.io/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -1737,7 +1737,11 @@ Negras: Carrington.</p>
     <id>https://matanzas.github.io/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america</id>
     <content type="html"><![CDATA[<p>Carlos Trelles y Govín      </p>
 
-<p><img src="https://matanzas.github.io/images/trelles.jpeg" style="width: 250px; float:center" ></p>
+<p><img class="center" src="https://matanzas.github.io/images/trelles.jpeg" title="trelles" ></p>
+
+<!---<img src="https://matanzas.github.io/images/trelles.jpeg" style="width: 250px; float:center" >
+&#8211;>
+
 
 <ul>
 <li><p>Vida y obra</p></li>
