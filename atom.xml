@@ -4,7 +4,7 @@
   <title><![CDATA[Un blog de Cuba]]></title>
   <link href="https://matanzas.github.io/atom.xml" rel="self"/>
   <link href="https://matanzas.github.io/"/>
-  <updated>2016-08-15T06:44:07-04:00</updated>
+  <updated>2016-08-18T03:46:38-04:00</updated>
   <id>https://matanzas.github.io/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -1596,7 +1596,11 @@ de Paraguay, Tucumán, Ecuador, y Río de la Plata***
 
 <p>Nació en Güines el 22 de Noviembre de 1844. Se naturalizó como ciudadano mexicano años después, ocupando numerosos cargos gubernamentales entre los que se encuentran Cónsul en La Habana el 30 de Junio de 1886, Cónsul general en Cuba, el 17 de enero de 1887. Fue también Primer Secretario en Centro América, Encargado de Negocios <em>ad interim</em>, Jefe de Sección en la Secretaría de Relaciones Exteriores y Subsecretario interino. [1]</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/clementevazquez.jpg" alt="" /></p>
+<p><img class="center" src="https://matanzas.github.io/images/clementevazquez.jpg"></p>
+
+<!---![](https://cubamatanzas.files.wordpress.com/2015/01/clementevazquez.jpg)
+-->
+
 
 <h1>Libros publicados</h1>
 
@@ -1626,29 +1630,57 @@ de Paraguay, Tucumán, Ecuador, y Río de la Plata***
 Blancas: Vázquez
 Negras: Carrington.</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/retroceso.png" alt="Jaque por parte de Vázquez que hace a Carrington retroceder" /></p>
+<p><img src="https://matanzas.github.io/images/retroceso.png" alt="Jaque por parte de Vázquez que hace a Carrington retroceder" /></p>
+
+<!---![Jaque por parte de Vázquez que hace a Carrington retroceder](https://cubamatanzas.files.wordpress.com/2015/01/retroceso.png)
+-->
+
 
 <p>Jaque por parte de Vázquez que hace a Carrington retroceder</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/jaqueporcarrington.png" alt="Jaque esta vez por parte de Carrington" /></p>
+<p><img src="https://matanzas.github.io/images/jaqueporcarrington.png" alt="Jaque esta vez por parte de Carrington" /></p>
+
+<!---[Jaque esta vez por parte de Carrington](https://cubamatanzas.files.wordpress.com/2015/01/jaqueporcarrington.png)
+-->
+
 
 <p>Jaque esta vez por parte de Carrington</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/alternativas.png" alt="" /></p>
+<p><img src="https://matanzas.github.io/images/alternativas.png" alt="Jaque y alternativas" /></p>
+
+<!---![](https://cubamatanzas.files.wordpress.com/2015/01/alternativas.png)
+-->
+
 
 <p>En esta jugada, el mismo autor plantea que &ldquo;si en vez de la última jugada, el peón de rey se hubiese movido, varias alternativas con Jaques hubieran procedido.&rdquo;</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/jaquedevazquez.png" alt="" /></p>
+<p><img src="https://matanzas.github.io/images/jaquedevazquez.png" alt="" /></p>
+
+<!---![](https://cubamatanzas.files.wordpress.com/2015/01/jaquedevazquez.png)
+-->
+
 
 <p>Jaque en esta ocasión por Vázquez.</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/jaquenuevamente.png" alt="" /></p>
+<p><img src="https://matanzas.github.io/images/jaquenuevamente.png" alt="" /></p>
+
+<!---![](https://cubamatanzas.files.wordpress.com/2015/01/jaquenuevamente.png)
+-->
+
 
 <p>Jaque nuevamente por Vázquez.</p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/jaquemate.png" alt="" /></p>
+<p><img src="https://matanzas.github.io/images/jaquemate.png" alt="" /></p>
 
-<p><img src="https://cubamatanzas.files.wordpress.com/2015/01/jaquematecontorre.png" alt="" /></p>
+<!---![](https://cubamatanzas.files.wordpress.com/2015/01/jaquemate.png)
+-->
+
+
+<p><img src="https://matanzas.github.io/images/jaquematecontorre.png" alt="" /></p>
+
+<!---![](https://cubamatanzas.files.wordpress.com/2015/01/jaquematecontorre.png)
+-->
+
 
 <p>Jaque Mate pidiendo la torre por Vázquez.</p>
 
@@ -1703,7 +1735,17 @@ Negras: Carrington.</p>
     <link href="https://matanzas.github.io/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america/"/>
     <updated>2012-02-10T23:08:38-05:00</updated>
     <id>https://matanzas.github.io/blog/2012/02/10/carlos-manuel-trelles-matancero-el-mas-notable-bibliografo-de-hispano-america</id>
-    <content type="html"><![CDATA[<p>Carlos Trelles y Govín      <a href="http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg"><img src="http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg?w=220" alt="" /></a></p>
+    <content type="html"><![CDATA[<p>Carlos Trelles y Govín      </p>
+
+<p><img src="https://matanzas.github.io/images/trelles.jpeg" style="width: 250px; float:center" ></p>
+
+<!---<img class="center" src="https://matanzas.github.io/images/trelles.jpeg" title="=250x" >
+&#8211;>
+
+
+<!---[](http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg?w=220)](http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg)
+-->
+
 
 <ul>
 <li><p>Vida y obra</p></li>
