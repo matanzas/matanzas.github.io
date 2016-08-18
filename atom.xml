@@ -4,7 +4,7 @@
   <title><![CDATA[Un blog de Cuba]]></title>
   <link href="https://matanzas.github.io/atom.xml" rel="self"/>
   <link href="https://matanzas.github.io/"/>
-  <updated>2016-08-18T05:00:33-04:00</updated>
+  <updated>2016-08-18T08:04:48-04:00</updated>
   <id>https://matanzas.github.io/</id>
   <author>
     <name><![CDATA[Carlos Enriquez]]></name>
@@ -1739,25 +1739,13 @@ Negras: Carrington.</p>
 
 <p><img src="https://matanzas.github.io/images/trelles.jpeg" style="width: 250px; float:center" ></p>
 
-<!---<img class="center" src="https://matanzas.github.io/images/trelles.jpeg" title="=250x" >
-&#8211;>
-
-
-<!---[](http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg?w=220)](http://cubamatanzas.files.wordpress.com/2012/02/trelles.jpeg)
--->
-
-
 <ul>
 <li><p>Vida y obra</p></li>
-<li><p>Carrera literaria</p>
-
-<ul>
+<li><p>Carrera literaria</p></li>
 <li><p>Pensamientos políticos</p></li>
 <li><p>Primer bibliotecólogo</p></li>
 <li><p>Representante de Cuba en París</p></li>
 <li><p>Magnus Opus de Trelles</p></li>
-</ul>
-</li>
 <li><p>Bibliografía</p></li>
 </ul>
 
@@ -1868,10 +1856,6 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
 <img class="center" src="https://matanzas.github.io/images/acosta-ii.png">
 <img class="center" src="https://matanzas.github.io/images/acosta-iii.png">
 <img class="center" src="https://matanzas.github.io/images/acosta-iv.png"></p>
-
-<!---[![](http://cubamatanzas.files.wordpress.com/2011/10/acosta.png)](http://cubamatanzas.files.wordpress.com/2011/10/acosta.png)[![](http://cubamatanzas.files.wordpress.com/2011/10/acosta-ii.png)](http://cubamatanzas.files.wordpress.com/2011/10/acosta-ii.png)[![](http://cubamatanzas.files.wordpress.com/2011/10/acosta-iii.png)](http://cubamatanzas.files.wordpress.com/2011/10/acosta-iii.png)[![](http://cubamatanzas.files.wordpress.com/2011/10/acosta-iv.png)](http://cubamatanzas.files.wordpress.com/2011/10/acosta-iv.png)
--->
-
 ]]></content>
   </entry>
   
@@ -1881,12 +1865,6 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
     <updated>2011-10-02T17:51:02-04:00</updated>
     <id>https://matanzas.github.io/blog/2011/10/02/bajo-la-tarde-azul</id>
     <content type="html"><![CDATA[<p><img src="https://matanzas.github.io/images/maria-villar-buceta.jpg" alt="" /></p>
-
-<!---[![](http://cubamatanzas.files.wordpress.com/2011/01/maria-villar-buceta.jpg)](http://cubamatanzas.files.wordpress.com/2011/01/maria-villar-buceta.jpg)
--->
-
-
-
 ]]></content>
   </entry>
   
@@ -1903,10 +1881,6 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
 
 <p><img class="left" src="https://matanzas.github.io/images/thumbnail-aspx_.jpg"></p>
 
-<!---![thumbnail.aspx.jpeg](http://cubamatanzas.files.wordpress.com/2011/01/thumbnail-aspx_.jpg)
--->
-
-
 <p>La nomenclatura de ese entonces se mantenía estrechamente vinculada entre sí, y para sorpresa general, cuando entre uno que otro comentario se divulgó que los poemas no pertenecían a nadie de quienes se decía podían ser los supuestos autores de los poemas, tal fue el alarmente asombro al confirmar que provenían de una niña oriunda de un humilde pueblo Corral Falso de Macurijes en  la parte suroeste de la isla, y cuyo nombre era Maria Villar Buceta.</p>
 
 <p>Desde ese preciso instante, la futura escritora de ‘Unanimismo’ formentaría sus pasos hacia una carrera llena de triunfos, y cuyo aporte sería invaluable para todas las generaciones de escritores, periodistas, historiadores, niños y familias enteras que acudirían años después, a leer un libro. Libros que muchos de los cuales formarían parte de la red global de la enseñanza, el antaño pero no obstante inigualable medio acquisitivo de conocimientos, no solo de matanceros sino de todos los cubanos y del mundo entero.</p>
@@ -1914,12 +1888,6 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
 <p>Y fue gracias a la mano invisibile de esta mujer por los cuales estos mismos libros que la mayoría de las instituciones educativas, universidades, y otras ramas intelectuales acudirían a su fiel repaso para expandir el más apreciado de los tesoros: la enseñanza. Debido a esto y por ser una de las mas reconocidas bibilotecarias, archivista e innovadora de la ciencia de la bibliotecología, escritora, y poeta, todos los cubanos y matanceros le rendimos tributo a esta gran mujer que indirectamente brindó su desinterado apoyo y contribución a nuestra cultura, profesando desde pequeña un amor incomparable por la literatura: Maria Villar Buceta.</p>
 
 <p><img class="center" src="https://matanzas.github.io/images/thumbnail-1-aspx_.jpg"></p>
-
-<!---![thumbnail-1.aspx.jpeg](http://cubamatanzas.files.wordpress.com/2011/01/thumbnail-1-aspx_.jpg)
--->
-
-
-
 ]]></content>
   </entry>
   
@@ -1932,7 +1900,7 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
 
 <p>Aunque fue un género predominante en las zonas rurales del campo cubano, sus seguidores mostrarían a lo largo del tiempo una incomparable devoción, no antes experimentada con otros versículos de la modernidad.</p>
 
-<p><img align="right" style="margin: 0px 20px" src="https://matanzas.github.io/images/guajiros.jpg" /></p>
+<p><img class="right" src="https://matanzas.github.io/images/guajiros.jpg"></p>
 
 <p>Aunque para la sorpresa general de muchos, quienes falsamente, pudiésen asumir que la décima es una exclusividad del campesinado cubano, esto no es y valga la redundancia, verdadero. Quizás más sorprendente aún, no es que la décima tuviése un origen peninsular, como se pudiése sospechar, sino más bien que según los datos más importantes que se han recopilado hasta el presente, los cuales señalan que la décima, con su forma de espinela, y su consiguiente lógica construcción, es un tipo de poema que tiene raíces tan lejanas como desde el siglo VI de nuestra era y se han recobrado documentos que datan del siglo XI y XII, donde muchos poetas, en este caso de descendencia hispano-musulmana, e ibero judía, de los cuales se ha podido comprobar que hacían uso de la singular composición que encapitulaba a este tipo de poesía, con su manera precisa e improvisante.</p>
 
@@ -1940,17 +1908,6 @@ Allí desempeñó la posición por casi un año, pero no sin antes establecer a 
 poética del octasílabo.</p>
 
 <p>Todos quizás recuerdan con memorial rapidez la estrofa que dice:</p>
-
-<!--<img align="center" src="https://matanzas.github.io/images/la_vida_es_sueno.jpg" />
-&#8211;>
-
-
-
-
-<!---
--> ![la-vida-es-sueno](http://cubamatanzas.files.wordpress.com/2012/05/la_vida_es_sueno.jpg)<-
--->
-
 
 <p style="text-align:center;">“¿Qué es la vida? Un frenesí<br/>
 ¿Qué es la vida? Una ilusión<br/>
@@ -2047,7 +2004,7 @@ y el otro la cultivó<br/>
 
 <p>En 1954 Carilda Oliver Labra toca una vez más lo que todos sabían:</p>
 
-<p><img src="https://matanzas.github.io/images/carilda0.jpg" align="right" ></p>
+<p><img class="right" src="https://matanzas.github.io/images/carilda0.png"></p>
 
 <p>Te quiero porque eres triste,</p>
 
@@ -2077,9 +2034,13 @@ y el otro la cultivó<br/>
 
 <p>Pero años antes, las esporádicas protestas y sublevaciones que se acelerarían en los años ´40, mantenían a muchos comerciantes, terratenientes, y oficiales gubernamentales, alertas al proceso con síntomas desestabilizadores que esto traería consigo, y el impacto que las mismas pudiésen tener en la producción agrícola azucarera. En este último punto, y en palabras del historiador Raúl R. Ruiz “tal era el miedo blanco que casi un centenar de poderosos propietarios solicita a O’Donnell la supresión de la trata negra”.</p>
 
-<p>La creciente desaceleración económica que se experimentaba no era equívoca, ya que durante, antes, y después, la marcada reconcentración causada por la Guerra de los Diez Años que trajo consigo batallas sucesivas que culminaron con la independentista, el aflictivo <img align="right" src="https://matanzas.github.io/images/guerra10.jpeg"> precio que se pagaría a largo y corto plazo por estas mismas, por consiguiente elevando la cifra de occisos que se acumularían debido a ellas, y el frágil e inocuo sistema productivo existente que de manera injusta e impulsado por los esclavos mostraba evidentes rasgos de separatismo nacional, daría lugar a causas suficientes que profetizarían la desaparición del Siglo de Oro de nuestra Matanzas.</p>
+<p><img class="right" src="https://matanzas.github.io/images/guerra10.jpeg"></p>
 
-<p>La decadencia del acentuado acrecentamiento poético-lírico-musical que se manifestaría en la apertura del emporio arquitectónico como lo fue el <img align="right" src="https://matanzas.github.io/images/liceo.jpeg"> Liceo Artístico y Literario en 1860 con la obra magna El Conde Alarcos de José Jacinto Milanés, la cual había sido estrenada años antes en el Teatro Tacón, y por cuyo evento la ciudad comenzaría a compartir el mismo apodo de la antaña región helinista de Grecia, no disminuye el meritorio valor que alcanzó, porque no fue comprado sino ganado por sus hijos: naturales y adoptivos que conformaban su territorio.</p>
+<p>La creciente desaceleración económica que se experimentaba no era equívoca, ya que durante, antes, y después, la marcada reconcentración causada por la Guerra de los Diez Años que trajo consigo batallas sucesivas que culminaron con la independentista, el aflictivo  precio que se pagaría a largo y corto plazo por estas mismas, por consiguiente elevando la cifra de occisos que se acumularían debido a ellas, y el frágil e inocuo sistema productivo existente que de manera injusta e impulsado por los esclavos mostraba evidentes rasgos de separatismo nacional, daría lugar a causas suficientes que profetizarían la desaparición del Siglo de Oro de nuestra Matanzas.</p>
+
+<p>La decadencia del acentuado acrecentamiento poético-lírico-musical que se manifestaría en la apertura del emporio arquitectónico como lo fue el  Liceo Artístico y Literario en 1860 con la obra magna El Conde Alarcos de José Jacinto Milanés, la cual había sido estrenada años antes en el Teatro Tacón, y por cuyo evento la ciudad comenzaría a compartir el mismo apodo de la antaña región helinista de Grecia, no disminuye el meritorio valor que alcanzó, porque no fue comprado sino ganado por sus hijos: naturales y adoptivos que conformaban su territorio.</p>
+
+<p><img class="right" src="https://matanzas.github.io/images/liceo.jpeg"></p>
 
 <p>Matanzas era, incluso antes de este suceso, el centro cultural más importante por más de la mitad del siglo XIX y su merecido galardón como la Atenas de Cuba no se pudiera empañar por causas indirectas que un metamórfico apogeo político-social deslumbrararía más tarde el esplendor artístico que una vez la hiciése brillar en la cima.</p>
 ]]></content>
@@ -2094,7 +2055,7 @@ y el otro la cultivó<br/>
 
 <p>Un acontecimiento, por muy distante que parezca, o inmóvil ante la historia, como si el tiempo girara semicircularmente en la órbita del olvido, haciéndole eco a quienes sostienen que todo es repetitivo y engañando a otros quienes juran por su siempre cambiante transición, se mantiene arbitrariamente allí, esperando ser detallado por el  desglozamiento factual de sus pasados eventos.</p>
 
-<p><img align="left" src="https://matanzas.github.io/images/carnival-near-the-temple-of-jupiter-athens1.jpeg"></p>
+<p><img class="center" src="https://matanzas.github.io/images/carnival-near-the-temple-of-jupiter-athens1.jpeg"></p>
 
 <!---![carnival near the temple of jupiter, athens](http://cubamatanzas.files.wordpress.com/2012/05/carnival-near-the-temple-of-jupiter-athens1.jpeg?w=388&h=268)
 -->
@@ -2102,12 +2063,15 @@ y el otro la cultivó<br/>
 
 <p>Si el período, por así llamarlo de estrellato, que Matanzas saborearía por un diminutivo tiempo, el transurso de la Atenas de Eurípides y de Aristófanes, de similar manera, tampoco gozó de prometedora estancia.</p>
 
-<p>Revisando con carácter pasajero, el gradual embellezamiento de la ciudad griega que virtuosamente contó con importantes figuras, las cuales la convertirían en la ciudad más importante de sus tiempos, no se le haría la merecida justicia a nuestra Matanzas, si no reconocemos que todas las acrópolis, como la otra Atenas, han atravesado por el habitual declinamiento que acompaña sus consequenciales y desfallecidos bríos.<img align="right" src="https://matanzas.github.io/images/sauto.jpg">
- De igual manera, no sería neutralmente justo desacreditar una tierra que haciendo gala de forma natural de una hermosa bahía que se uníría como eslabón romántico a unos ríos que le conferían a su vez, una imagen veneciana a su ya crepúsculo espejo, donde sus hijos al sentirse reflejados en el mismo, le brindarían humildemente el recíproco favor de cantarle, escribirle, y resonar su nombre con amor y el merecido apego.</p>
+<p>Revisando con carácter pasajero, el gradual embellezamiento de la ciudad griega que virtuosamente contó con importantes figuras, las cuales la convertirían en la ciudad más importante de sus tiempos, no se le haría la merecida justicia a nuestra Matanzas, si no reconocemos que todas las acrópolis, como la otra Atenas, han atravesado por el habitual declinamiento que acompaña sus consequenciales y desfallecidos bríos.</p>
 
-<p><img align="right" src="https://matanzas.github.io/images/puente-de-la-concordia.jpeg"></p>
+<p> De igual manera, no sería neutralmente justo desacreditar una tierra que haciendo gala de forma natural de una hermosa bahía que se uníría como eslabón romántico a unos ríos que le conferían a su vez, una imagen veneciana a su ya crepúsculo espejo, donde sus hijos al sentirse reflejados en el mismo, le brindarían humildemente el recíproco favor de cantarle, escribirle, y resonar su nombre con amor y el merecido apego.</p>
+
+<p><img class="right" src="https://matanzas.github.io/images/sauto.jpg"></p>
 
 <p>La analogía no se traza para justificar la brevedad del histórico período, sino más bien para entender el frágil pero no obstante remarcable proceso, que muchas sociedades, llaménsele griegas o cubanas, experimentan. Porque siempre están caracterizadas por un transcurso donde diferentes fechas desestabilizadoras afectan en innumerables ocasiones el progreso que pareciése alguna vez permanente. De esta manera, el éxito se convertiría, subitamente, de promisorio a transitivo, y su inminente deterioro es palpable ante el desmoronamiento artístico de su cementado cultural suceso.</p>
+
+<p><img class="right" src="https://matanzas.github.io/images/puente-de-la-concordia.jpeg"></p>
 
 <p>Entonces…¿ Qué más pedimos, o exigimos? Si el lugar donde sus claves figuras que la encaminarían al mundial renombre, aunque separados por otras épocas, fueron tan prominentes en las artes como lo fuésen los fundadores atenienses. Porque si bien es impresionante e indudablemente admirable la cultura que precedió a la era bizentina, también por cada nombre griego existiría uno matancero: Plácido, Milanés, Manzano, entre tantos otros que constituían el calibre literario de nuestra región yumurina.</p>
 
@@ -2119,17 +2083,15 @@ y el otro la cultivó<br/>
 
 <p>Se sabe, como muchos historiadores han logrado apuntar, que la influencia sacarócrata en la urbe estaba presente en cada decisión municipal que se tomaría, pero sería una falta metodológica no tener en cuenta el paralelo vínculo de las clases más altas en la otrora original sede helenística. Por ejemplo, las estructuras arquitectónicas en Grecia que patrozinarían las épicas obras de la tragedia clásica fueron auspiciadas remunerativamente por los más acaudalados, algo que no fue disímil con lo acontecido en nuestra ciudad cuando se entrelaza el aporte económico de sus respectivos contribuyentes.</p>
 
-<p><img align="right" width="150px" src="https://matanzas.github.io/images/milanes.jpg" ></p>
+<p><img class="right" src="https://matanzas.github.io/images/milanes.jpg"></p>
 
 <p>Desde otro punto, se puede afirmar que si trazamos una comparación entre la antigua acrópolis, ciudad que irrumpió en el creativo campo de las artes para marcar el hiato de una sociedad autónoma con nuestra intelectualidad criolla que centurias después, le proporcionaría a Matanzas la singular posición de ícono cultural entre todas las recién descubiertas hispano americanas tierras, se puede concluir que la historia se repitiría de manera singular y sobresaliente.</p>
 
-<p><img align="right" width="150px" src="https://matanzas.github.io/images/placido.jpeg"></p>
+<p><img class="right" src="https://matanzas.github.io/images/placido.jpeg"></p>
 
 <p>Ni una sola región descubierta por España, contaba con la calidad artística de sus precursores. La competencia más aledaña se encontraba al occidente de esta que después de un tiempo, y merecidamente, se convirtió en la más importante: la capital de la Isla. Sus representantes se establecerían después cuando el avance artístico matancero languidecía, como se ha sabido, a causas de apatías propulsadas por el desencanto popular social que trajo consigo diferencias que culminarían en guerras de reconquista.</p>
 
-<p><a href="http://cubamatanzas.files.wordpress.com/2012/05/guerra10_.jpg?w=300&amp;h=170"></a></p>
-
-<p>La consiguiente caída de la época dorada tiene para Matanzas un cierto semblante con el clásico período en Grecia, porque si bien los problemas empezarían para el último en el Peloponeso, de igual manera la sociedad yumurina se vería afectada por la guerra de Los Diez Años, la cual extendiéndose a través del tiempo se resumiría con la independentista. Algo que nuevamente, si se aprecia de superficial manera no denota nada parecido con la anterior acrópolis, a menos que se revise la historia y se aprecie claramente que la caída de los grandes momentos para Grecia lo marcó el resurgimiento de la susodicha guerra alrededor de 413 B.C.E. <a href="http://cubamatanzas.files.wordpress.com/2012/05/peloppones_.jpg?w=300&amp;h=151"></a>Y es este dato el más importante con el que se cuenta, para reconsiderar, como se planteó desde un principio, si un evento posée o no los reencuentros históricos que a medida que repercuten con el pasar de los siglos, muestran el estrecho contraste entre las dos civilizaciones, sin importar la lengua o las costumbres de su gente, así sean como en este caso, en las vidas de los antiguos griegos y nuestros más lejanos predecesores, los cuales hicieron de Matanzas, aunque brevemente, la Atenas de Cuba para siempre.</p>
+<p>La consiguiente caída de la época dorada tiene para Matanzas un cierto semblante con el clásico período en Grecia, porque si bien los problemas empezarían para el último en el Peloponeso, de igual manera la sociedad yumurina se vería afectada por la guerra de Los Diez Años, la cual extendiéndose a través del tiempo se resumiría con la independentista. Algo que nuevamente, si se aprecia de superficial manera no denota nada parecido con la anterior acrópolis, a menos que se revise la historia y se aprecie claramente que la caída de los grandes momentos para Grecia lo marcó el resurgimiento de la susodicha guerra alrededor de 413 B.C.E. Y es este dato el más importante con el que se cuenta, para reconsiderar, como se planteó desde un principio, si un evento posée o no los reencuentros históricos que a medida que repercuten con el pasar de los siglos, muestran el estrecho contraste entre las dos civilizaciones, sin importar la lengua o las costumbres de su gente, así sean como en este caso, en las vidas de los antiguos griegos y nuestros más lejanos predecesores, los cuales hicieron de Matanzas, aunque brevemente, la Atenas de Cuba para siempre.</p>
 ]]></content>
   </entry>
   
